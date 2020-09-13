@@ -12,4 +12,25 @@ class NewsController extends Controller
     {
         return view('admin.news.create');
     }
+    public function create(Request $request)
+    {
+        // admin/news/createにリダイレクトする
+        return redirect('admin/news/create');
+        
+    }
+}
+class ProfileController extends Controller
+{
+    //
+    public function add()
+    {
+        return view('admin.profile.create');
+    }
+    public function create(Request $request)
+    {
+        // admin/profile/createにリダイレクトする
+        return redirect('admin/profile/create');
+        
+    }  
+    
 }
