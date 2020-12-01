@@ -12,10 +12,6 @@ body {
   width: 350px;
 }
 
-.headline .caption .image img {
-  width: 100%;
-}
-
 .headline .caption .title {
   width: 100%;
   position: absolute;
