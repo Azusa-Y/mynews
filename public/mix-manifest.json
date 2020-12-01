@@ -1,8 +1,8 @@
 {
-    "/js/app.js": "/js/app.js",
-    "/css/app.css": "/css/app.css",
-    "/css/admin.css": "/css/admin.css",
-    "/css/profile.css": "/css/profile.css",
-    "/css/front.css": "/css/front.css",
-    "/css/frontprofile.css": "/css/frontprofile.css"
+    "/js/app.js": "/js/app.js?id=d5d54025d6879858160b",
+    "/css/app.css": "/css/app.css?id=e18f5d50912fcc2c343a",
+    "/css/admin.css": "/css/admin.css?id=2ffa97fd45ace8e7d0d6",
+    "/css/profile.css": "/css/profile.css?id=ec777bfc53834097c3e4",
+    "/css/front.css": "/css/front.css?id=ef6cece50bd53142cbd2",
+    "/css/frontprofile.css": "/css/frontprofile.css?id=3a9335c36bc9117e5ac2"
 }
